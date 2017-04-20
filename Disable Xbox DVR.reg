@@ -7,4 +7,4 @@
 "GameDVR_Enabled"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\GameDVR]
-"AllowGameDVR"=dword:00000001
+"AllowGameDVR"=dword:00000000
